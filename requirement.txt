@@ -1,0 +1,7 @@
+streamlit(web page interface)
+tensorflow(neural network model)
+numpy(numerical opertations)
+pandas(data handling)
+matplotlib(visualizations)
+scikit-learn(preprocessing utilities)
+pillow(image loading & processing)
